@@ -48,10 +48,6 @@ You can use the component for a single shortcode-to-emoji rendering. Simply use 
 
 Where `myVar` is bound to a string with a single shortcode, such as `:poop:`. That component will then render the emoji.
 
-## Directive
-
-IN PROGRESS...
-
 ## Pipe
 
 Using the pipe is simple. Below is a sample component that makes use of the EmojiPipe.
