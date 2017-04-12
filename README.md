@@ -82,7 +82,26 @@ As EmojiOne simply replaces shortcodes and native unicode emoji, you will need t
 
 ## Service
 
-If you'd rather do conversions yourself, this library provides an easy to use service with various methods for managing your emoji!
+If you'd rather do conversions yourself, this library provides an easy to use service with various methods for managing your emoji! Simply import `EmojiService` where you wish to use it, like the example below:
+
+```ts
+import { Component } from '@angular/core';
+
+import { EmojiService } from 'angular-emojione';
+
+@Component({
+  selector: 'app-root',
+  template: `
+    <div>Hello World!</div>
+  `
+})
+export class AppComponent {
+
+  constructor(public emojiService: EmojiService) {
+    // Emoji Service methods are available to use!
+  }
+}
+```
 
 ### shortnameToImage()
 
