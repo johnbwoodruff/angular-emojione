@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/dm/angular-emojione.svg)]() [![npm](https://img.shields.io/npm/dt/angular-emojione.svg)]() [![npm](https://img.shields.io/npm/v/angular-emojione.svg)]()
 
-[EmojiOne](https://github.com/Ranks/emojione) for Angular 2+.
+[EmojiOne](https://github.com/Ranks/emojione) for Angular.
 
 # Usage
 
