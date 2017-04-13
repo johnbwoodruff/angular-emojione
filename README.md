@@ -74,7 +74,7 @@ export class AppComponent {
 
 The pipe will then convert the text and the output will look like the following:
 
-![Pipe](./assets/pipe.png)
+![Pipe](https://lh3.googleusercontent.com/MdOvXFu5CfxMkI4Oe_H-ty15zz79Mxn7M7zpQHMZ0zsrNO_0VYGzPKSz8FlpXJx5dg-tZl7XvA-qdNffAE79znXw_qp7B6f8CbCNPVadAOVMSufVq-eMl-q2y24SfBj6zxd6KJcVrk4xIomOvU_pKAGXDmBdQGSAvnIEkbXus07SJdnZsRucnDmUz_eUMHD16ShOKsblLyPw9EVXnZ-2rag9YDeakB8NBehTBLcQ-7VWNLyAVloz2VA56bZorskJyNz3VbWsctoKyAALVHq6gUBF530wTNTGB3kO0J8RGdwL9NcB5kTuF9xWN8aRXPVW1PhPVZmwbPIS-1mDMc3PlnNAXGFT1o1kErdhmYY3XkYz1LmlRD0XPYFVeS08vllKfeNedoARWgM74WbfbWB3FzfU775M1FCl4BuVIUvqtdYTSGOVDGilYt9N6DaMbSrnznTglmwc0qMnazsymIRcRqCmsCKm1pPVglqRVJy2gXZGVJiEE10ewGYBt1Tzcspp4Dw3r0pB2f-BjD_gkQZWkAy1DwvrC3wEPAMDfeA3s_OWQyw1WLBCljN6aehVgMGBNfUe_XQ-CTlob7-OSXXiOLhOlH85nim55NQbDvSu0vy_57P4vC-lO0Gkd-RF5aYKphiQLjXNZIDmvbS0TJVFhlQkeTyqtrLxCftbK8WGAQ=w728-h84-no)
 
 As EmojiOne simply replaces shortcodes and native unicode emoji, you will need to bind your output to the `innerHTML` attribute, as is shown in the example above.
 
