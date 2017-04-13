@@ -1,6 +1,6 @@
 # Angular EmojiOne
 
-EmojiOne for Angular 2+.
+[EmojiOne](https://github.com/Ranks/emojione) for Angular 2+.
 
 # Usage
 
