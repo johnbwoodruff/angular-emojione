@@ -4,6 +4,8 @@
 
 [EmojiOne](https://github.com/Ranks/emojione) for Angular.
 
+**Angular Version:** 4+
+
 # Usage
 
 To use this library, install both emojione and this library, angular-emojione, from npm.
