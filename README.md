@@ -1,6 +1,6 @@
 # Angular EmojiOne
 
-[![npm](https://img.shields.io/npm/dm/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione) [![npm](https://img.shields.io/npm/dt/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione) [![npm](https://img.shields.io/npm/v/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione)
+[![Build Status](https://travis-ci.org/jbw91/angular-emojione.svg?branch=master)](https://travis-ci.org/jbw91/angular-emojione) [![npm](https://img.shields.io/npm/dm/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione) [![npm](https://img.shields.io/npm/dt/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione) [![npm](https://img.shields.io/npm/v/angular-emojione.svg)](https://www.npmjs.com/package/angular-emojione)
 
 [EmojiOne](https://github.com/Ranks/emojione) for Angular.
 
