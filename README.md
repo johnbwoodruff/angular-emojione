@@ -6,6 +6,10 @@
 
 **Angular Version:** 4+
 
+# Project Archived
+
+**THIS PROJECT IS NO LONGER MAINTAINED.** EmojiOne is no longer maintained as used in this library, and has been replaced by JoyPixels. Please use [ngx-joypixels](https://github.com/johnbwoodruff/ngx-joypixels) instead.
+
 # Usage
 
 To use this library, install both emojione and this library, angular-emojione, from npm.
